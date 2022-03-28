@@ -2,6 +2,7 @@
 title: Secure contexts
 slug: Web/Security/Secure_Contexts
 tags:
+  - Overview
   - Secure contexts
   - Security
 ---
@@ -47,9 +48,7 @@ if (window.isSecureContext) {
 
 ## Specifications
 
-| Specification                            | Status                               | Comment        |
-| ---------------------------------------- | ------------------------------------ | -------------- |
-| {{SpecName('Secure Contexts')}} | {{Spec2('Secure Contexts')}} | Editor's Draft |
+{{Specifications("https://w3c.github.io/webappsec-secure-contexts/")}}
 
 ## See also
 

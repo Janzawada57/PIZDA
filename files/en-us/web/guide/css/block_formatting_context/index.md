@@ -6,7 +6,7 @@ tags:
   - Guide
   - NeedsBeginnerUpdate
   - NeedsExample
-  - Reference
+  - Overview
   - Web
 ---
 {{ CSSRef }}
@@ -196,10 +196,7 @@ Creating a new BFC to avoid the [margin collapsing](/en-US/docs/Web/CSS/CSS_Box_
 
 ## Specifications
 
-| Specification                                                                                                    | Status                           | Comment               |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------- |
-| {{SpecName('CSS3 Display', '#block-formatting-context', 'Block Formatting Context')}} | {{Spec2('CSS3 Display')}} | define BFC(abbr) etc. |
-| {{SpecName('CSS2.1', 'visuren.html#block-formatting', 'Block Formatting Context')}} | {{Spec2('CSS2.1')}}         | Initial definition.   |
+{{Specifications("https://drafts.csswg.org/css-display/#block-formatting-context")}}
 
 ## See also
 

@@ -8,6 +8,7 @@ tags:
   - Lazy
   - Lazy-loading
   - Loading
+  - Overview
   - Performance
   - Web Performance
   - rendering
@@ -92,9 +93,7 @@ When browser compatibility is crucial, there are a few options:
 
 ## Specifications
 
-| **Specification**                                                        | **Status**                       | **Comment** |
-| ------------------------------------------------------------------------ | -------------------------------- | ----------- |
-| {{SpecName('HTML WHATWG', "#lazy-loading-attributes")}} | {{Spec2('HTML WHATWG')}} |             |
+{{Specifications("https://html.spec.whatwg.org/multipage/#lazy-loading-attributes")}}
 
 ## See also
 

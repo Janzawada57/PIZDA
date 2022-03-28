@@ -5,6 +5,7 @@ tags:
   - HTML
   - HTTP
   - Intro
+  - Overview
   - Networking
   - Security
 ---
@@ -112,10 +113,7 @@ Browsers handle SRI by doing the following:
 
 ## Specifications
 
-| Specification                                    | Status                                       | Comment |
-| ------------------------------------------------ | -------------------------------------------- | ------- |
-| {{SpecName('Subresource Integrity')}} | {{Spec2('Subresource Integrity')}} |         |
-| {{SpecName('Fetch')}}                     | {{Spec2('Fetch')}}                     |         |
+{{Specifications("https://w3c.github.io/webappsec-subresource-integrity/")}}
 
 ## Browser compatibility
 

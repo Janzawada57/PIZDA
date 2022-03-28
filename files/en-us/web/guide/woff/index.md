@@ -4,6 +4,7 @@ slug: Web/Guide/WOFF
 tags:
   - Fonts
   - NeedsMobileBrowserCompatibility
+  - Overview
   - WOFF
   - WOFF2
 ---
@@ -27,10 +28,7 @@ You can use the {{cssxref("@font-face")}} CSS property to use WOFF fonts for tex
 
 ## Specifications
 
-| Specification                            | Status                       | Comment                   |
-| ---------------------------------------- | ---------------------------- | ------------------------- |
-| {{SpecName('WOFF2.0', '', '')}} | {{Spec2('WOFF2.0')}} | New compression algorithm |
-| {{SpecName('WOFF1.0', '', '')}} | {{Spec2('WOFF1.0')}} | Initial specification.    |
+{{Specifications("https://www.w3.org/TR/WOFF/, https://w3c.github.io/woff/woff2/")}}
 
 ## Browser compatibility
 
